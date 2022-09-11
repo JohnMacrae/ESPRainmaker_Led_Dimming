@@ -2,4 +2,4 @@
  
 A simple modification to the example code to help a subscriber solve a problem.
 
-View in conjustction with: https://youtu.be/n2nQreRZx34
+View in conjunction with: https://youtu.be/n2nQreRZx34
